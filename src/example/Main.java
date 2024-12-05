@@ -7,5 +7,6 @@ public class Main {
 		System.out.println("최남현");
 		System.out.println("류시아");
 		System.out.println("맹제현");
+		System.out.println("맹제현2");
 	}
 }
